@@ -1,35 +1,3 @@
-name,math,bangla,english,result
-Anirudh,70,80,90,1
-Vikas,30,40,50,0
-Reeti,50,20,35,0
-Pravin,80,33,33,1
-Jignesh,33,35,36,1
-Joseph,32,80,35,0
-Veera,40,50,21,0
-Sayan,33,35,35,1
-Minakshi,60,23,10,0
-Lekha,33,34,35,1
-Vikram,50,40,40,1
-Rajiv,35,40,30,0
-Amit,0,0,0,0
-Hiresh,10,10,10,0
-Jay,33,33,33,1
-Ritesh,76,56,44,
-Himas,42,32,65,
-Jafar,83,88,76,
-Baby,74,76,71,
-Seema,56,57,42,
-Hari,89,84,6,
-Vijay,45,32,33,
-Guru,34,45,65,
-Nisanth,82,33,43,
-Amrit,99,5,56,
-Puskar,23,65,87,
-Vimal,30,54,32,
-Chintu,35,89,66,
-Jignesh,45,54,76,
-Prateek,54,76,54,
-Seemana,85,67,69,
-Deepa,67,64,67,
-Ramseh,20,62,43,
-Rehan,82,32,30,
+version https://git-lfs.github.com/spec/v1
+oid sha256:df5b3ff43397a6a69328ad3094adaef09109e03d418fd42c96696a3607cfcff1
+size 636
